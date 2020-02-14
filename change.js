@@ -4,6 +4,6 @@ function change() {
 }
 function submit() {
   var img = document.getElementById("img");
-  var inp = document.getElementByIs("box");
+  var inp = document.getElementById("box");
   img.src = inp.innerHTML;
 }
