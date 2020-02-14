@@ -8,5 +8,8 @@ img {
 }
 img:hover {
   transform: scaleX(100);
-  transition:100s;
+  tra
+}
+body {
+  margin:0 auto;
 }
