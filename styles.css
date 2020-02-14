@@ -5,10 +5,14 @@ img:active {
 img {
   transform: scale(1);
   transition:100s;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
 }
 img:hover {
   transform: scaleX(100);
-  tra
+  transition:100s;
 }
 body {
   margin:0 auto;
