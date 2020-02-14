@@ -1,1 +1,8 @@
-
+img:active {
+  transform: scale(1);
+  transition:100s;
+}
+img:hover {
+  transform: scaleX(100);
+  transition:100s;
+}
