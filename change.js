@@ -7,3 +7,8 @@ function submit() {
   var inp = document.getElementById("box");
   img.src = inp.value;
 }
+function up() {
+var input = document.getElementById("box2");
+var img = document.getElementById("img");
+img.src = input.value;
+}
